@@ -1,1 +1,1 @@
-This is  My-List application to track your task
+This is Python based My-List application to track your task
